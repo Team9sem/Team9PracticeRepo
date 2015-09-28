@@ -17,7 +17,7 @@
 		// insert your name in corresponding variable
 		pontus = "pontus";
 		nima = "";
-		filip= "";
+		filip= "Filip";
 		geraldin = "";
 		olle = "";
 		alemeseged = ""; 
@@ -41,7 +41,7 @@
 			
 			
 		}
-		System.out.println("\nGoodBye!\n");
+		System.out.println("\nGoodBye MASTER HACKERS!\n");
 	
 	
 	}
