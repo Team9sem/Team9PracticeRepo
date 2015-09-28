@@ -41,7 +41,7 @@
 			
 			
 		}
-		System.out.println("\nGoodBye MASTER HACKERS!\n");
+		System.out.println("\nGoodBye ppls!\n");
 	
 	
 	}
