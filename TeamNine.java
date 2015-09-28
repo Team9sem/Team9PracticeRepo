@@ -16,7 +16,7 @@
 		String pontus, nima, filip, geraldin, olle, alemeseged;
 		// insert your name in corresponding variable
 		pontus = "pontus";
-		nima = "";
+		nima = ””;
 		filip= "";
 		geraldin = "";
 		olle = “Olle Renard”;
