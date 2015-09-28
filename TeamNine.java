@@ -19,7 +19,7 @@
 		nima = "";
 		filip= "Filip";
 		geraldin = "";
-		olle = "";
+		olle = "Olle Renard";
 		alemeseged = ""; 
 		
 		
